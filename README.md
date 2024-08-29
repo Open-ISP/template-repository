@@ -3,12 +3,7 @@
 ## Table of contents
 
 - [How the package works](#how-the-package-works)
-- [Table configurations](#table-configurations)
 - [Examples](#examples)
-    - [Bulk export](#bulk-export)
-    - [List tables with configuration files](#list-tables-with-configuration-files)
-    - [Get table as DataFrame](#get-table-as-dataframe)
-    - [Get table with custom configuration](#get-table-with-custom-configuration)
 - [Contributing](#contributing)
 - [License](#license)
 
