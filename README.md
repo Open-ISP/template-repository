@@ -1,5 +1,9 @@
 # Template repository
 
+
+> [!IMPORTANT]  
+> Actions are disabled for this template repo. You may need to enable them again when you create a new repo from this template.
+
 ## Table of contents
 
 - [How the package works](#how-the-package-works)
