@@ -1,7 +1,7 @@
 # Template repository
 
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Actions are disabled for this template repo. You may need to enable them again when you create a new repo from this template.
 
 ## Table of contents
